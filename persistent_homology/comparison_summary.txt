@@ -1,0 +1,86 @@
+Persistent Homology: Sanjuanito vs Tobas Summary
+============================================================
+
+Genre: sanjuanito
+----------------------------------------
+
+  corazon_equivocado_100-7500hz_midi_1990hz:
+    H0: mean=2229.265218, std=3777.427295, entropy=3.506468
+    H1: mean=341.854639, std=778.414232, entropy=2.043863
+
+  ecuador_manta_san_juanito_100-7500hz_midi_1990hz:
+    H0: mean=16941.166126, std=81160.619158, entropy=1.657981
+    H1: mean=887.066575, std=2724.198059, entropy=1.076013
+
+  nuca_llacta_100-7500hz_midi_1990hz:
+    H0: mean=325872.144106, std=2490150.773288, entropy=0.881661
+    H1: mean=156.862375, std=241.720342, entropy=2.079465
+
+  ponchito_100-7500hz_midi_1990hz:
+    H0: mean=17697.706923, std=87912.552410, entropy=1.675185
+    H1: mean=469.808246, std=970.759587, entropy=2.152831
+
+  purimuy_100-7500hz_midi_1990hz:
+    H0: mean=29302.669123, std=102985.667794, entropy=1.902438
+    H1: mean=192.663194, std=406.483531, entropy=1.898798
+
+  san_juanito_de_mi_tierra_100-7500hz_midi_1990hz:
+    H0: mean=17072.270776, std=85274.031999, entropy=1.671046
+    H1: mean=672.434400, std=2542.475328, entropy=0.971351
+
+  yamor_100-7500hz_midi_1990hz:
+    H0: mean=10212.537109, std=50002.827173, entropy=1.693640
+    H1: mean=419.517603, std=1024.939341, entropy=2.200333
+
+Genre: tobas
+----------------------------------------
+
+  ama_amazonas_100-7500hz:
+    H0: mean=17694.121894, std=147981.653195, entropy=1.114768
+    H1: mean=276.387634, std=596.826149, entropy=2.083658
+
+  cuando_floresca_el_chuno_100-7500hz_mid1990hz:
+    H0: mean=2796.847323, std=3673.357691, entropy=3.845803
+    H1: mean=345.476566, std=462.971403, entropy=2.521580
+
+  el_ultimo_amanecer_100-7500hz_mid_1990hz:
+    H0: mean=3219.863502, std=4277.149179, entropy=3.795156
+    H1: mean=572.898634, std=1255.349593, entropy=1.921929
+
+  los_tobas_zona_sud_100-7500hz:
+    H0: mean=1241.302646, std=1761.311090, entropy=4.147949
+    H1: mean=149.941346, std=122.657002, entropy=3.599279
+
+  que_pena_100-7500hz_midi_1990hz:
+    H0: mean=2259.375158, std=2968.287338, entropy=3.907260
+    H1: mean=159.760786, std=220.760420, entropy=2.856165
+
+  tobas_central_100-7500hz_midi_1990hz:
+    H0: mean=17946.431386, std=129422.585476, entropy=1.510714
+    H1: mean=165.482296, std=224.757375, entropy=2.743159
+
+
+============================================================
+Genre Averages
+============================================================
+
+Genre: sanjuanito
+  H0:
+    avg persistent_mean:    59903.965626 ± 108846.448164
+    avg persistent_std:     414466.271302 ± 847945.649061
+    avg persistent_entropy: 1.855488 ± 0.737565
+  H1:
+    avg persistent_mean:    448.601005 ± 240.730856
+    avg persistent_std:     1241.284346 ± 919.812807
+    avg persistent_entropy: 1.774665 ± 0.483796
+
+Genre: tobas
+  H0:
+    avg persistent_mean:    7526.323651 ± 7304.320036
+    avg persistent_std:     48347.390661 ± 64119.231020
+    avg persistent_entropy: 3.053608 ± 1.241195
+  H1:
+    avg persistent_mean:    278.324544 ± 149.755369
+    avg persistent_std:     480.553657 ± 381.914356
+    avg persistent_entropy: 2.620962 ± 0.549936
+

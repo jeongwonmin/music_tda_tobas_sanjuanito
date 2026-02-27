@@ -1,0 +1,240 @@
+{
+  "sanjuanito": {
+    "corazon_equivocado_100-7500hz_midi_1990hz": {
+      "H0": {
+        "n_bars": 92,
+        "n_finite": 91,
+        "n_infinite": 1,
+        "persistent_mean": 2229.265218,
+        "persistent_std": 3777.427295,
+        "persistent_entropy": 3.506468
+      },
+      "H1": {
+        "n_bars": 28,
+        "n_finite": 28,
+        "n_infinite": 0,
+        "persistent_mean": 341.854639,
+        "persistent_std": 778.414232,
+        "persistent_entropy": 2.043863
+      }
+    },
+    "ecuador_manta_san_juanito_100-7500hz_midi_1990hz": {
+      "H0": {
+        "n_bars": 68,
+        "n_finite": 67,
+        "n_infinite": 1,
+        "persistent_mean": 16941.166126,
+        "persistent_std": 81160.619158,
+        "persistent_entropy": 1.657981
+      },
+      "H1": {
+        "n_bars": 20,
+        "n_finite": 20,
+        "n_infinite": 0,
+        "persistent_mean": 887.066575,
+        "persistent_std": 2724.198059,
+        "persistent_entropy": 1.076013
+      }
+    },
+    "nuca_llacta_100-7500hz_midi_1990hz": {
+      "H0": {
+        "n_bars": 73,
+        "n_finite": 72,
+        "n_infinite": 1,
+        "persistent_mean": 325872.144106,
+        "persistent_std": 2490150.773288,
+        "persistent_entropy": 0.881661
+      },
+      "H1": {
+        "n_bars": 17,
+        "n_finite": 17,
+        "n_infinite": 0,
+        "persistent_mean": 156.862375,
+        "persistent_std": 241.720342,
+        "persistent_entropy": 2.079465
+      }
+    },
+    "ponchito_100-7500hz_midi_1990hz": {
+      "H0": {
+        "n_bars": 74,
+        "n_finite": 73,
+        "n_infinite": 1,
+        "persistent_mean": 17697.706923,
+        "persistent_std": 87912.55241,
+        "persistent_entropy": 1.675185
+      },
+      "H1": {
+        "n_bars": 30,
+        "n_finite": 30,
+        "n_infinite": 0,
+        "persistent_mean": 469.808246,
+        "persistent_std": 970.759587,
+        "persistent_entropy": 2.152831
+      }
+    },
+    "purimuy_100-7500hz_midi_1990hz": {
+      "H0": {
+        "n_bars": 63,
+        "n_finite": 62,
+        "n_infinite": 1,
+        "persistent_mean": 29302.669123,
+        "persistent_std": 102985.667794,
+        "persistent_entropy": 1.902438
+      },
+      "H1": {
+        "n_bars": 18,
+        "n_finite": 18,
+        "n_infinite": 0,
+        "persistent_mean": 192.663194,
+        "persistent_std": 406.483531,
+        "persistent_entropy": 1.898798
+      }
+    },
+    "san_juanito_de_mi_tierra_100-7500hz_midi_1990hz": {
+      "H0": {
+        "n_bars": 74,
+        "n_finite": 73,
+        "n_infinite": 1,
+        "persistent_mean": 17072.270776,
+        "persistent_std": 85274.031999,
+        "persistent_entropy": 1.671046
+      },
+      "H1": {
+        "n_bars": 23,
+        "n_finite": 23,
+        "n_infinite": 0,
+        "persistent_mean": 672.4344,
+        "persistent_std": 2542.475328,
+        "persistent_entropy": 0.971351
+      }
+    },
+    "yamor_100-7500hz_midi_1990hz": {
+      "H0": {
+        "n_bars": 72,
+        "n_finite": 71,
+        "n_infinite": 1,
+        "persistent_mean": 10212.537109,
+        "persistent_std": 50002.827173,
+        "persistent_entropy": 1.69364
+      },
+      "H1": {
+        "n_bars": 30,
+        "n_finite": 30,
+        "n_infinite": 0,
+        "persistent_mean": 419.517603,
+        "persistent_std": 1024.939341,
+        "persistent_entropy": 2.200333
+      }
+    }
+  },
+  "tobas": {
+    "ama_amazonas_100-7500hz": {
+      "H0": {
+        "n_bars": 92,
+        "n_finite": 91,
+        "n_infinite": 1,
+        "persistent_mean": 17694.121894,
+        "persistent_std": 147981.653195,
+        "persistent_entropy": 1.114768
+      },
+      "H1": {
+        "n_bars": 26,
+        "n_finite": 26,
+        "n_infinite": 0,
+        "persistent_mean": 276.387634,
+        "persistent_std": 596.826149,
+        "persistent_entropy": 2.083658
+      }
+    },
+    "cuando_floresca_el_chuno_100-7500hz_mid1990hz": {
+      "H0": {
+        "n_bars": 100,
+        "n_finite": 99,
+        "n_infinite": 1,
+        "persistent_mean": 2796.847323,
+        "persistent_std": 3673.357691,
+        "persistent_entropy": 3.845803
+      },
+      "H1": {
+        "n_bars": 26,
+        "n_finite": 26,
+        "n_infinite": 0,
+        "persistent_mean": 345.476566,
+        "persistent_std": 462.971403,
+        "persistent_entropy": 2.52158
+      }
+    },
+    "el_ultimo_amanecer_100-7500hz_mid_1990hz": {
+      "H0": {
+        "n_bars": 99,
+        "n_finite": 98,
+        "n_infinite": 1,
+        "persistent_mean": 3219.863502,
+        "persistent_std": 4277.149179,
+        "persistent_entropy": 3.795156
+      },
+      "H1": {
+        "n_bars": 25,
+        "n_finite": 25,
+        "n_infinite": 0,
+        "persistent_mean": 572.898634,
+        "persistent_std": 1255.349593,
+        "persistent_entropy": 1.921929
+      }
+    },
+    "los_tobas_zona_sud_100-7500hz": {
+      "H0": {
+        "n_bars": 129,
+        "n_finite": 128,
+        "n_infinite": 1,
+        "persistent_mean": 1241.302646,
+        "persistent_std": 1761.31109,
+        "persistent_entropy": 4.147949
+      },
+      "H1": {
+        "n_bars": 49,
+        "n_finite": 49,
+        "n_infinite": 0,
+        "persistent_mean": 149.941346,
+        "persistent_std": 122.657002,
+        "persistent_entropy": 3.599279
+      }
+    },
+    "que_pena_100-7500hz_midi_1990hz": {
+      "H0": {
+        "n_bars": 106,
+        "n_finite": 105,
+        "n_infinite": 1,
+        "persistent_mean": 2259.375158,
+        "persistent_std": 2968.287338,
+        "persistent_entropy": 3.90726
+      },
+      "H1": {
+        "n_bars": 32,
+        "n_finite": 32,
+        "n_infinite": 0,
+        "persistent_mean": 159.760786,
+        "persistent_std": 220.76042,
+        "persistent_entropy": 2.856165
+      }
+    },
+    "tobas_central_100-7500hz_midi_1990hz": {
+      "H0": {
+        "n_bars": 124,
+        "n_finite": 123,
+        "n_infinite": 1,
+        "persistent_mean": 17946.431386,
+        "persistent_std": 129422.585476,
+        "persistent_entropy": 1.510714
+      },
+      "H1": {
+        "n_bars": 29,
+        "n_finite": 29,
+        "n_infinite": 0,
+        "persistent_mean": 165.482296,
+        "persistent_std": 224.757375,
+        "persistent_entropy": 2.743159
+      }
+    }
+  }
+}

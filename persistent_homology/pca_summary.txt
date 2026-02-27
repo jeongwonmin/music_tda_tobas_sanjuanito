@@ -1,0 +1,92 @@
+PCA Analysis Summary
+============================================================
+
+6D PH Statistics (dim=6):
+----------------------------------------
+  PC1: variance=3.1411, ratio=48.3%, cumulative=48.3%
+  PC2: variance=2.5877, ratio=39.8%, cumulative=88.1%
+  PC3: variance=0.5840, ratio=9.0%, cumulative=97.1%
+  PC4: variance=0.1504, ratio=2.3%, cumulative=99.4%
+  PC5: variance=0.0358, ratio=0.6%, cumulative=100.0%
+  PC6: variance=0.0009, ratio=0.0%, cumulative=100.0%
+
+  Feature vectors:
+    [sanjuanito] corazon_equivocado_100-7500hz_midi_1990hz: [-0.3980, -0.3719, 0.9413, -0.1275, -0.1369, -0.1823]
+    [sanjuanito] ecuador_manta_san_juanito_100-7500hz_midi_1990hz: [-0.2232, -0.2529, -0.6434, 2.3415, 2.2461, -1.6354]
+    [sanjuanito] nuca_llacta_100-7500hz_midi_1990hz: [3.4468, 3.4539, -1.3089, -0.9653, -0.7942, -0.1288]
+    [sanjuanito] ponchito_100-7500hz_midi_1990hz: [-0.2142, -0.2425, -0.6286, 0.4519, 0.0987, -0.0187]
+    [sanjuanito] purimuy_100-7500hz_midi_1990hz: [-0.0764, -0.2193, -0.4338, -0.8031, -0.5924, -0.4001]
+    [sanjuanito] san_juanito_de_mi_tierra_100-7500hz_midi_1990hz: [-0.2216, -0.2465, -0.6322, 1.3696, 2.0236, -1.7926]
+    [sanjuanito] yamor_100-7500hz_midi_1990hz: [-0.3031, -0.3008, -0.6128, 0.2242, 0.1650, 0.0527]
+    [tobas] ama_amazonas_100-7500hz: [-0.2143, -0.1500, -1.1091, -0.4240, -0.3593, -0.1225]
+    [tobas] cuando_floresca_el_chuno_100-7500hz_mid1990hz: [-0.3912, -0.3721, 1.2322, -0.1111, -0.5232, 0.5350]
+    [tobas] el_ultimo_amanecer_100-7500hz_mid_1990hz: [-0.3862, -0.3712, 1.1888, 0.9188, 0.4472, -0.3653]
+    [tobas] los_tobas_zona_sud_100-7500hz: [-0.4097, -0.3750, 1.4912, -0.9966, -0.9400, 2.1530]
+    [tobas] que_pena_100-7500hz_midi_1990hz: [-0.3976, -0.3732, 1.2849, -0.9521, -0.8198, 1.0373]
+    [tobas] tobas_central_100-7500hz_midi_1990hz: [-0.2113, -0.1786, -0.7696, -0.9262, -0.8149, 0.8677]
+
+
+24D ITM Marginals (dim=24):
+----------------------------------------
+  PC1: variance=9.4481, ratio=36.3%, cumulative=36.3%
+  PC2: variance=6.0837, ratio=23.4%, cumulative=59.7%
+  PC3: variance=5.0391, ratio=19.4%, cumulative=79.1%
+  PC4: variance=2.4890, ratio=9.6%, cumulative=88.7%
+  PC5: variance=1.4158, ratio=5.4%, cumulative=94.1%
+  PC6: variance=0.7562, ratio=2.9%, cumulative=97.0%
+  PC7: variance=0.5249, ratio=2.0%, cumulative=99.1%
+  PC8: variance=0.1256, ratio=0.5%, cumulative=99.5%
+  PC9: variance=0.0887, ratio=0.3%, cumulative=99.9%
+  PC10: variance=0.0185, ratio=0.1%, cumulative=100.0%
+  PC11: variance=0.0082, ratio=0.0%, cumulative=100.0%
+  PC12: variance=0.0024, ratio=0.0%, cumulative=100.0%
+  PC13: variance=0.0000, ratio=0.0%, cumulative=100.0%
+
+  Feature vectors:
+    [sanjuanito] corazon_equivocado_100-7500hz_midi_1990hz: [-1.0750, -0.6074, 0.4809, 0.0752, -0.0279, -0.6254, ...]
+    [sanjuanito] ecuador_manta_san_juanito_100-7500hz_midi_1990hz: [-0.5061, -0.6181, -1.0989, -0.6409, 1.5906, -0.6281, ...]
+    [sanjuanito] nuca_llacta_100-7500hz_midi_1990hz: [1.2451, -0.5972, 0.0764, -0.6407, 0.2964, -0.1482, ...]
+    [sanjuanito] ponchito_100-7500hz_midi_1990hz: [-0.1680, -0.4858, -0.3541, -0.6244, 0.6419, -0.6329, ...]
+    [sanjuanito] purimuy_100-7500hz_midi_1990hz: [-1.5174, 0.5790, 0.7749, -0.6409, -1.3412, -0.6329, ...]
+    [sanjuanito] san_juanito_de_mi_tierra_100-7500hz_midi_1990hz: [1.1923, -0.6119, -1.5980, -0.6409, 1.2974, -0.3966, ...]
+    [sanjuanito] yamor_100-7500hz_midi_1990hz: [0.6948, -0.6181, -1.1322, -0.6193, 0.8547, -0.6040, ...]
+    [tobas] ama_amazonas_100-7500hz: [1.3241, -0.4202, 1.5033, -0.2453, -1.1207, 2.1831, ...]
+    [tobas] cuando_floresca_el_chuno_100-7500hz_mid1990hz: [0.4017, -0.5045, 1.0763, 1.8273, -1.6255, 1.2966, ...]
+    [tobas] el_ultimo_amanecer_100-7500hz_mid_1990hz: [-0.7870, 1.7086, -0.7108, -0.2012, 0.5840, -0.6212, ...]
+    [tobas] los_tobas_zona_sud_100-7500hz: [-0.5871, -0.1029, -0.6635, 2.6107, 0.4528, -0.4969, ...]
+    [tobas] que_pena_100-7500hz_midi_1990hz: [1.0956, -0.3786, 1.6217, -0.5102, -0.6820, 1.8648, ...]
+    [tobas] tobas_central_100-7500hz_midi_1990hz: [-1.3130, 2.6571, 0.0240, 0.2505, -0.9205, -0.5584, ...]
+
+
+30D Combined (PH + ITM) (dim=30):
+----------------------------------------
+  PC1: variance=10.3768, ratio=31.9%, cumulative=31.9%
+  PC2: variance=7.3981, ratio=22.8%, cumulative=54.7%
+  PC3: variance=6.7917, ratio=20.9%, cumulative=75.6%
+  PC4: variance=3.2493, ratio=10.0%, cumulative=85.6%
+  PC5: variance=1.5503, ratio=4.8%, cumulative=90.4%
+  PC6: variance=1.2749, ratio=3.9%, cumulative=94.3%
+  PC7: variance=0.7935, ratio=2.4%, cumulative=96.7%
+  PC8: variance=0.5592, ratio=1.7%, cumulative=98.4%
+  PC9: variance=0.2572, ratio=0.8%, cumulative=99.2%
+  PC10: variance=0.1520, ratio=0.5%, cumulative=99.7%
+  PC11: variance=0.0791, ratio=0.2%, cumulative=99.9%
+  PC12: variance=0.0178, ratio=0.1%, cumulative=100.0%
+  PC13: variance=0.0000, ratio=0.0%, cumulative=100.0%
+
+  Feature vectors:
+    [sanjuanito] corazon_equivocado_100-7500hz_midi_1990hz: [-0.3980, -0.3719, 0.9413, -0.1275, -0.1369, -0.1823, ...]
+    [sanjuanito] ecuador_manta_san_juanito_100-7500hz_midi_1990hz: [-0.2232, -0.2529, -0.6434, 2.3415, 2.2461, -1.6354, ...]
+    [sanjuanito] nuca_llacta_100-7500hz_midi_1990hz: [3.4468, 3.4539, -1.3089, -0.9653, -0.7942, -0.1288, ...]
+    [sanjuanito] ponchito_100-7500hz_midi_1990hz: [-0.2142, -0.2425, -0.6286, 0.4519, 0.0987, -0.0187, ...]
+    [sanjuanito] purimuy_100-7500hz_midi_1990hz: [-0.0764, -0.2193, -0.4338, -0.8031, -0.5924, -0.4001, ...]
+    [sanjuanito] san_juanito_de_mi_tierra_100-7500hz_midi_1990hz: [-0.2216, -0.2465, -0.6322, 1.3696, 2.0236, -1.7926, ...]
+    [sanjuanito] yamor_100-7500hz_midi_1990hz: [-0.3031, -0.3008, -0.6128, 0.2242, 0.1650, 0.0527, ...]
+    [tobas] ama_amazonas_100-7500hz: [-0.2143, -0.1500, -1.1091, -0.4240, -0.3593, -0.1225, ...]
+    [tobas] cuando_floresca_el_chuno_100-7500hz_mid1990hz: [-0.3912, -0.3721, 1.2322, -0.1111, -0.5232, 0.5350, ...]
+    [tobas] el_ultimo_amanecer_100-7500hz_mid_1990hz: [-0.3862, -0.3712, 1.1888, 0.9188, 0.4472, -0.3653, ...]
+    [tobas] los_tobas_zona_sud_100-7500hz: [-0.4097, -0.3750, 1.4912, -0.9966, -0.9400, 2.1530, ...]
+    [tobas] que_pena_100-7500hz_midi_1990hz: [-0.3976, -0.3732, 1.2849, -0.9521, -0.8198, 1.0373, ...]
+    [tobas] tobas_central_100-7500hz_midi_1990hz: [-0.2113, -0.1786, -0.7696, -0.9262, -0.8149, 0.8677, ...]
+
+
