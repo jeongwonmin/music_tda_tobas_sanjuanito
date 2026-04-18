@@ -143,6 +143,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+browser.json
+client_secret_tv.json
 
 # Spyder project settings
 .spyderproject
