@@ -1,3 +1,5 @@
 ytmusicapi
 pandas
 musicbrainzngs
+spotipy
+python-dotenv
